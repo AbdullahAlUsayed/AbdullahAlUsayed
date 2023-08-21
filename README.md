@@ -12,13 +12,13 @@
 ---
 
 # About me
-Hello! I have a strong foundation in programming languages, including C++, Python, and C#. These languages enable me to develop a wide range of applications and software solutions.
+Hello! I have a strong foundation in programming languages, including C, Java, Python, and JavaScript. These languages enable me to develop a wide range of applications and software solutions.
 
-In web development, I am proficient in HTML, CSS, and JavaScript, which are essential for creating dynamic and interactive web pages. I also have experience working with SQL for database management and have expertise in using Django and Django REST API frameworks for building robust web applications. Additionally, I am familiar with Amazon Web Services (AWS) and Linux, which are widely used in cloud computing environments.
+In web development, I am proficient in HTML, CSS, and JavaScript, which are essential for creating dynamic and interactive web pages. I also have experience working with SQL for database management and have expertise in using Spring and Spring REST API frameworks for building robust web applications.
 
-I am well-versed in ASP.NET, a popular framework for building web applications using C#, which allows for rapid development and scalability. I am experienced in utilizing tools such as Git for version control, Visual Studio for integrated development environments, and MySQL Workbench and phpMyAdmin for database management. I also have knowledge of Docker, a containerization platform that simplifies application deployment.
+I am well-versed in Spring Boot, a popular framework for building web applications using Java, which allows for rapid development and scalability. I am experienced in utilizing tools such as Git for version control, Visual Studio for integrated development environments, and PostgreSQL Workbench and DBeaver for database management. I also have knowledge of Docker, a containerization platform that simplifies application deployment.
 
-Furthermore, I have skills in using the .NET framework, Canva for graphic design purposes, and Microsoft Word and PowerPoint for documentation and presentation needs. I am adept at implementing web automation using Selenium and performing web scraping tasks using libraries like Beautiful Soup. Moreover, I am proficient in API testing using Postman, which is crucial for ensuring the functionality and reliability of web services.
+Furthermore, I have skills in using the Spring framework, Canva for graphic design purposes, and Microsoft Word and PowerPoint for documentation and presentation needs. I am adept at implementing web automation using Selenium and performing web scraping tasks using libraries like Beautiful Soup. Moreover, I am proficient in API testing using Postman and Swagger which is crucial for ensuring the functionality and reliability of web services.
 
 With these skills, I am well-equipped to develop software applications, build and maintain websites, automate tasks, and conduct API testing. I am committed to staying updated with the latest technologies and continuously expanding my skill set to deliver high-quality solutions. I'm dedicated to delivering top-quality results and meeting project deadlines. Follow me for insights on web development and updates on my latest projects!
 
