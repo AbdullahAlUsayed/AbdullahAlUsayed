@@ -3,8 +3,8 @@
 <p align="center">
 <a href="mailto:abdullahal.usayed00@gmail.com@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/48/gmail.png" alt="gmail"/></a>
 <a href="https://www.linkedin.com/in/abdullah-al-usayed-9657a8245/" target="_blank"><img src="https://img.icons8.com/nolan/48/linkedin.png" alt="linkedin"/></a>
-<a href="" target="_blank"><img src="https://img.icons8.com/nolan/48/twitter-squared.png" alt="twitter-squared"/></a>
-<a href="" target="_blank"><img src="https://img.icons8.com/nolan/48/facebook.png" alt="facebook"/></a>
+<!-- <a href="" target="_blank"><img src="https://img.icons8.com/nolan/48/twitter-squared.png" alt="twitter-squared"/></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/nolan/48/facebook.png" alt="facebook"/></a> -->
 </p>
 
 
