@@ -8,16 +8,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="mailto:abdullahal.usayed00@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
-<a href="https://www.linkedin.com/in/abdullah-al-usayed-9657a8245/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-<a href="https://github.com/AbdullahAlUsayed"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
-</p>
-
----
-
 # 👨‍💻 About Me
 
 🚀 Passionate **Software Engineer** with experience in **Java, Spring Boot, Angular, and Web Development**.
@@ -30,6 +20,16 @@
 🔹 Interested in **Microservices Architecture & Cloud Technologies**
 
 🎯 My goal is to **build scalable and high-quality software solutions** while continuously learning new technologies.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:abdullahal.usayed00@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/abdullah-al-usayed-9657a8245/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="https://github.com/AbdullahAlUsayed"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
+</p>
 
 ---
 
@@ -57,18 +57,6 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdullahAlUsayed&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlUsayed&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
