@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=272EF5&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Microservices;Angular+%7C+ReactJS+%7C+PostgreSQL;Full+Stack+Developer;API+Development+%26+System+Design;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=272EF5&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Microservices;Angular+%7C+ReactJS+%7C+PostgreSQL+Oracle;API+Development+%26+System+Design;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -50,6 +50,7 @@
 ### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
 
 ### ⚙️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
@@ -75,22 +76,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AbdullahAlUsayed&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAlUsayed&theme=tokyo-night"/>
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AbdullahAlUsayed&color=blue&style=for-the-badge"/>
 </p>
 
 ---
